@@ -23,3 +23,5 @@ Automate your Linux setup with this **interactive script**—no more manual `apt
    curl -O https://raw.githubusercontent.com/your-repo/linux-setup/main/linux-setup.sh
    chmod +x linux-setup.sh
    ./linux-setup.sh
+## 📜 License
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
